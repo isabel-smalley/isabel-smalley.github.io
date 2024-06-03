@@ -526,7 +526,7 @@ header{
     background-position: 0px -50px;
 }
 .instagram{
-	background-image: url(../images/facebook.png);
+	background-image: url(../images/insta.png);
 }
 .twitter{
 	background-image: url(../images/twitter.png);
@@ -562,9 +562,10 @@ footer {
     margin: 0;
     padding: 20px 0px;
     text-align: right;
+	color: #fff
 }
 .designed a:hover {
-    color: #e66f69;
+    color: #fff;
 }
 
 
